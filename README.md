@@ -1,5 +1,7 @@
 #### Project done by Harsh Mehta , hhm5044@psu.edu
 
+Check the PDF in the project directory for a detailed README.
+
 @Test1: 1, 1000, 6327000
 @Test2: 2, 1000, 9451000
 @Test3: 4, 1000, 15871000
